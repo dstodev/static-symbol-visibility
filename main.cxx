@@ -8,5 +8,5 @@ int main() {
 	          << my_visible_symbol()
 	          << std::endl;
 
-    return 0;
+	return 0;
 }
